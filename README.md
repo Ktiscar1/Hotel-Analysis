@@ -66,6 +66,8 @@ In order to *answer the last question* the dashboard need to be created for visu
 
 # 3. Create a Data Visualization with Power BI
 
+![Dashboard](https://github.com/Ktiscar1/Hotel-Analysis/blob/57b96e12864441c8937953c18c20945bfd30ed2d/Dashboard.png)
+
 The Dashboard show us the following Information:
   1. The revenue increased from 2018 to 2019, but it began to decrease from 2019 to 2020.
   2. The Average Daily Rate (ADR) has increased from 2019 to 2020, from $99.53 to $104.47.
