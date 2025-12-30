@@ -1,10 +1,10 @@
 # Hotel-Analysis
 This dashboard analyzes hotel performance by tracking year-over-year revenue growth, evaluating parking capacity needs based on usage trends, and identifying key patterns in the data to support informed operational and strategic decision-making.
 
-#GOALS
-Is the hotel revenue grwowing yearly?
-Should parking lot size be increased?
-What trends are visible in the data?
+# GOALS
+* Is the hotel revenue grwowing yearly?
+* Should parking lot size be increased?
+* What trends are visible in the data?
 
 # Steps
   1. Create a Database
