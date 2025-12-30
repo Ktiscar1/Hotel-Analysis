@@ -64,7 +64,7 @@ FROM hotels group by arrival_date_year, hotel
 
 In order to *answer the last question* the dashboard need to be created for visual representation of the data.
 
-#3. Create a Data Visualization with Power BI
+# 3. Create a Data Visualization with Power BI
 
 The Dashboard show us the following Information:
   1. The revenue increased from 2018 to 2019, but it began to decrease from 2019 to 2020.
