@@ -12,7 +12,7 @@ This dashboard analyzes hotel performance by tracking year-over-year revenue gro
   3. Create a Data Visualization with Power BI
 
 # 1. Create a Database
-Database created using SQL Server Managament Studio to analyze the Hotel Booking Data.
+Database created using SQL Server Management Studio to analyze the Hotel Booking Data.
 Import the the data source to SSMS.
 
 # 2. Querry Data
